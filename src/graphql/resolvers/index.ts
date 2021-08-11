@@ -3,7 +3,7 @@ import * as tenantResolver from '@/graphql/resolvers/tenant'
 
 const resolvers = {
     Query: {
-        allTenants: () => tenantResolver.allTenants,
+        allTenants: () => tenantResolver.allTenants(),
     },
 };
 

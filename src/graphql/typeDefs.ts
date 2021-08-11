@@ -3,7 +3,7 @@ import {  gql } from 'apollo-server';
 const typeDefs = gql`
   type Tenant {
     id: String
-    name: Strings
+    name: String
   }
 
   type Query {
