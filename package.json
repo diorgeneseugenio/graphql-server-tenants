@@ -5,5 +5,13 @@
   "main": "index.js",
   "repository": "git@github.com:diorgeneseugenio/graphql-server-tenants.git",
   "author": "Diórgenes Eugênio <diorgeneseugenio@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "ts-node": "^10.2.0",
+    "typescript": "^4.3.5"
+  }
 }
