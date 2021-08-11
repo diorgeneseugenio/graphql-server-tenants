@@ -1,0 +1,9 @@
+{
+  "name": "graphql-server-tenants",
+  "version": "1.0.0",
+  "description": "Project used to mock tenants in a frontend app",
+  "main": "index.js",
+  "repository": "git@github.com:diorgeneseugenio/graphql-server-tenants.git",
+  "author": "Diórgenes Eugênio <diorgeneseugenio@gmail.com>",
+  "license": "MIT"
+}
